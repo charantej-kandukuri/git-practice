@@ -1,1 +1,2 @@
 second file
+File modified in second branch
